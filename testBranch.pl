@@ -12,6 +12,10 @@
  git branch		# list all branches
 			# current branch will have a *
 
+ * modified the file attribute using chmod command will affect the 
+   changed, should commit the file again
 
+   the changed attribute will not affect the file attribute in other
+   branch
 
 =cut
