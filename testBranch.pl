@@ -9,4 +9,9 @@
  git checkout testing	# switch to testing breach
 			# now you can write code on testing branch
 
+ git branch		# list all branches
+			# current branch will have a *
+
+
+
 =cut
